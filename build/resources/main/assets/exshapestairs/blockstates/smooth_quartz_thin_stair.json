@@ -1,0 +1,97 @@
+{
+  "variants": {
+    "facing=north,shape=inner_left": {
+      "model": "exshapestairs:block/smooth_quartz/thin_stair_inner",
+      "uvlock": true,
+      "y": 270
+    },
+    "facing=north,shape=inner_right": {
+      "model": "exshapestairs:block/smooth_quartz/thin_stair_inner"
+    },
+    "facing=north,shape=outer_left": {
+      "model": "exshapestairs:block/smooth_quartz/thin_stair_outer"
+    },
+    "facing=north,shape=outer_right": {
+      "model": "exshapestairs:block/smooth_quartz/thin_stair_outer",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing=north,shape=straight": {
+      "model": "exshapestairs:block/smooth_quartz/thin_stair"
+    },
+
+    "facing=south,shape=inner_left": {
+      "model": "exshapestairs:block/smooth_quartz/thin_stair_inner",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing=south,shape=inner_right": {
+      "model": "exshapestairs:block/smooth_quartz/thin_stair_inner",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing=south,shape=outer_left": {
+      "model": "exshapestairs:block/smooth_quartz/thin_stair_outer",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing=south,shape=outer_right": {
+      "model": "exshapestairs:block/smooth_quartz/thin_stair_outer",
+      "uvlock": true,
+      "y": 270
+    },
+    "facing=south,shape=straight": {
+      "model": "exshapestairs:block/smooth_quartz/thin_stair",
+      "uvlock": true,
+      "y": 180
+    },
+
+    "facing=west,shape=inner_left": {
+      "model": "exshapestairs:block/smooth_quartz/thin_stair_inner",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing=west,shape=inner_right": {
+      "model": "exshapestairs:block/smooth_quartz/thin_stair_inner",
+      "uvlock": true,
+      "y": 270
+    },
+    "facing=west,shape=outer_left": {
+      "model": "exshapestairs:block/smooth_quartz/thin_stair_outer",
+      "uvlock": true,
+      "y": 270
+    },
+    "facing=west,shape=outer_right": {
+      "model": "exshapestairs:block/smooth_quartz/thin_stair_outer"
+    },
+    "facing=west,shape=straight": {
+      "model": "exshapestairs:block/smooth_quartz/thin_stair",
+      "uvlock": true,
+      "y": 270
+    },
+
+    "facing=east,shape=inner_left": {
+      "model": "exshapestairs:block/smooth_quartz/thin_stair_inner"
+    },
+    "facing=east,shape=inner_right": {
+      "model": "exshapestairs:block/smooth_quartz/thin_stair_inner",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing=east,shape=outer_left": {
+      "model": "exshapestairs:block/smooth_quartz/thin_stair_outer",
+      "uvlock": true,
+      "y": 90
+    },
+    "facing=east,shape=outer_right": {
+      "model": "exshapestairs:block/smooth_quartz/thin_stair_outer",
+      "uvlock": true,
+      "y": 180
+    },
+    "facing=east,shape=straight": {
+      "model": "exshapestairs:block/smooth_quartz/thin_stair",
+      "uvlock": true,
+      "y": 90
+    }
+  }
+}

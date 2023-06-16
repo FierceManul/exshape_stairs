@@ -1,0 +1,12 @@
+{
+	"parent": "exshapestairs:block/tall_stair_outer_basic",
+	"textures": {
+		"particle": "minecraft:block/red_sandstone_top",
+		"up": "minecraft:block/red_sandstone_top",
+		"down": "minecraft:block/red_sandstone_bottom",
+		"north": "minecraft:block/red_sandstone",
+		"east": "minecraft:block/red_sandstone",
+		"south": "minecraft:block/red_sandstone",
+		"west": "minecraft:block/red_sandstone"
+	}
+}

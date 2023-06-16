@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: exshapestairs
+Specification-Vendor: Fierce_manul
+Specification-Version: 1
+Implementation-Title: exshapestairs
+Implementation-Version: 0.0.1-beta
+Implementation-Vendor: Fierce_manul
+Implementation-Timestamp: 2023-05-10T21:27:51+0800
+

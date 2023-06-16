@@ -1,0 +1,12 @@
+{
+	"parent": "exshapestairs:block/thin_stair_inner_90",
+	"textures": {
+		"particle": "minecraft:block/polished_blackstone",
+		"up": "exshapestairs:block/polished_blackstone_stair_90",
+		"down": "exshapestairs:block/polished_blackstone_stair_0",
+		"north": "exshapestairs:block/polished_blackstone_xy",
+		"east": "exshapestairs:block/polished_blackstone_b",
+		"south": "exshapestairs:block/polished_blackstone_b",
+		"west": "exshapestairs:block/polished_blackstone_xy"
+	}
+}

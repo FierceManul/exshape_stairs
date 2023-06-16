@@ -1,0 +1,12 @@
+{
+	"parent": "exshapestairs:block/tall_stair_inner_180",
+	"textures": {
+		"particle": "minecraft:block/polished_andesite",
+		"up": "exshapestairs:block/polished_andesite_stair_180",
+		"down": "exshapestairs:block/polished_andesite_stair_270",
+		"north": "exshapestairs:block/polished_andesite_y",
+		"east": "exshapestairs:block/polished_andesite_y",
+		"south": "minecraft:block/polished_andesite",
+		"west": "minecraft:block/polished_andesite"
+	}
+}

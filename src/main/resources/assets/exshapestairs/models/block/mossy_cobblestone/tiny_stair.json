@@ -1,0 +1,6 @@
+{
+	"parent": "exshapestairs:block/tiny_stair_basic",
+	"textures": {
+		"all": "minecraft:block/mossy_cobblestone"
+	}
+}

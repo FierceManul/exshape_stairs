@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:prismarine_bricks"
+  },
+  "result": "exshapestairs:prismarine_brick_tiny_stair",
+  "count": 4
+}

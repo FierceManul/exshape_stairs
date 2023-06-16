@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "exshapestairs:smooth_stone_tiny_stair"
+    }
+  },
+  "pattern": [
+    "# ",
+    " #"
+  ],
+  "result": {
+    "item": "exshapestairs:smooth_stone_thin_stair"
+  }
+}

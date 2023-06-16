@@ -1,0 +1,6 @@
+{
+	"parent": "exshapestairs:block/tall_stair_inner_mirror_basic",
+	"textures": {
+		"all": "minecraft:block/sandstone_top"
+	}
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "exshapestairs:mossy_stone_brick_tiny_stair"
+    }
+  },
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "result": {
+    "item": "exshapestairs:mossy_stone_brick_tall_stair"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "exshapestairs:oak_tall_stair",
+    "exshapestairs:oak_thin_stair",
+    "exshapestairs:oak_tiny_stair",
+    "exshapestairs:spruce_tall_stair",
+    "exshapestairs:spruce_thin_stair",
+    "exshapestairs:spruce_tiny_stair",
+    "exshapestairs:birch_tall_stair",
+    "exshapestairs:birch_thin_stair",
+    "exshapestairs:birch_tiny_stair",
+    "exshapestairs:jungle_tall_stair",
+    "exshapestairs:jungle_thin_stair",
+    "exshapestairs:jungle_tiny_stair",
+    "exshapestairs:acacia_tall_stair",
+    "exshapestairs:acacia_thin_stair",
+    "exshapestairs:acacia_tiny_stair",
+    "exshapestairs:dark_oak_tall_stair",
+    "exshapestairs:dark_oak_thin_stair",
+    "exshapestairs:dark_oak_tiny_stair",
+    "exshapestairs:mangrove_tall_stair",
+    "exshapestairs:mangrove_thin_stair",
+    "exshapestairs:mangrove_tiny_stair",
+    "exshapestairs:crimson_tall_stair",
+    "exshapestairs:crimson_thin_stair",
+    "exshapestairs:crimson_tiny_stair",
+    "exshapestairs:warped_tall_stair",
+    "exshapestairs:warped_thin_stair",
+    "exshapestairs:warped_tiny_stair"
+  ]
+}

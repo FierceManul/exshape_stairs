@@ -1,0 +1,12 @@
+{
+	"parent": "exshapestairs:block/tiny_stair_outer",
+	"textures": {
+		"particle": "minecraft:block/polished_granite",
+		"up": "exshapestairs:block/polished_granite_xy",
+		"down": "exshapestairs:block/polished_granite_xy",
+		"north": "exshapestairs:block/polished_granite_xy",
+		"east": "exshapestairs:block/polished_granite_xy",
+		"south": "exshapestairs:block/polished_granite_xy",
+		"west": "exshapestairs:block/polished_granite_xy"
+	}
+}

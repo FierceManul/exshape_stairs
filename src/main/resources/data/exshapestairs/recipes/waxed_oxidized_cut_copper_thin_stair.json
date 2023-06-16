@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "exshapestairs:waxed_oxidized_cut_copper_tiny_stair"
+    }
+  },
+  "pattern": [
+    "# ",
+    " #"
+  ],
+  "result": {
+    "item": "exshapestairs:waxed_oxidized_cut_copper_thin_stair"
+  }
+}

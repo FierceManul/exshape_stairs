@@ -1,0 +1,6 @@
+{
+	"parent": "exshapestairs:block/tall_stair_basic",
+	"textures": {
+		"all": "minecraft:block/red_sandstone_top"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "exshapestairs:block/tiny_stair_outer_basic",
+	"textures": {
+		"all": "minecraft:block/weathered_cut_copper"
+	}
+}

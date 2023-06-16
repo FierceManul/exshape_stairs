@@ -1,0 +1,12 @@
+{
+	"parent": "exshapestairs:block/tall_stair_outer",
+	"textures": {
+		"particle": "minecraft:block/polished_deepslate",
+		"up": "exshapestairs:block/polished_deepslate_xy",
+		"down": "exshapestairs:block/polished_deepslate_xy",
+		"north": "exshapestairs:block/polished_deepslate_y",
+		"east": "exshapestairs:block/polished_deepslate_y",
+		"south": "exshapestairs:block/polished_deepslate_y",
+		"west": "exshapestairs:block/polished_deepslate_y"
+	}
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:mossy_cobblestone"
+  },
+  "result": "exshapestairs:mossy_cobblestone_tiny_stair",
+  "count": 4
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:waxed_cut_copper"
+  },
+  "result": "exshapestairs:waxed_cut_copper_tiny_stair",
+  "count": 4
+}

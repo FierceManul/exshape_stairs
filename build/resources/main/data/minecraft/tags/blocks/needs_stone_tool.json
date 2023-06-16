@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "exshapestairs:waxed_cut_copper_tall_stair",
+    "exshapestairs:waxed_cut_copper_thin_stair",
+    "exshapestairs:waxed_cut_copper_tiny_stair",
+    "exshapestairs:waxed_exposed_cut_copper_tall_stair",
+    "exshapestairs:waxed_exposed_cut_copper_thin_stair",
+    "exshapestairs:waxed_exposed_cut_copper_tiny_stair",
+    "exshapestairs:waxed_weathered_cut_copper_tall_stair",
+    "exshapestairs:waxed_weathered_cut_copper_thin_stair",
+    "exshapestairs:waxed_weathered_cut_copper_tiny_stair",
+    "exshapestairs:waxed_oxidized_cut_copper_tall_stair",
+    "exshapestairs:waxed_oxidized_cut_copper_thin_stair",
+    "exshapestairs:waxed_oxidized_cut_copper_tiny_stair"
+  ]
+}

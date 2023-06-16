@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:cobbled_deepslate"
+  },
+  "result": "exshapestairs:cobble_deepslate_tiny_stair",
+  "count": 4
+}

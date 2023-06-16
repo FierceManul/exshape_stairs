@@ -1,0 +1,12 @@
+{
+	"parent": "exshapestairs:block/thin_stair_outer_90",
+	"textures": {
+		"particle": "minecraft:block/quartz_block_side",
+		"up": "exshapestairs:block/quartz_stair_180",
+		"down": "exshapestairs:block/quartz_stair_270",
+		"north": "exshapestairs:block/quartz_xy",
+		"east": "exshapestairs:block/quartz_xy",
+		"south": "exshapestairs:block/quartz_a",
+		"west": "exshapestairs:block/quartz_a"
+	}
+}

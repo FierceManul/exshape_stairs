@@ -1,0 +1,6 @@
+{
+	"parent": "exshapestairs:block/tall_stair_inner_basic",
+	"textures": {
+		"all": "minecraft:block/dark_prismarine"
+	}
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:red_sandstone"
+  },
+  "result": "exshapestairs:red_sandstone_tiny_stair",
+  "count": 4
+}

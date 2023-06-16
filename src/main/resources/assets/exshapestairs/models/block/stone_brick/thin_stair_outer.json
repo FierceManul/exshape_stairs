@@ -1,0 +1,6 @@
+{
+	"parent": "exshapestairs:block/thin_stair_outer_basic",
+	"textures": {
+		"all": "minecraft:block/stone_bricks"
+	}
+}

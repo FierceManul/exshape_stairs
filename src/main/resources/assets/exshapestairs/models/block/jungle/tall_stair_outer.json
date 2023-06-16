@@ -1,0 +1,6 @@
+{
+	"parent": "exshapestairs:block/tall_stair_outer_basic",
+	"textures": {
+		"all": "minecraft:block/jungle_planks"
+	}
+}

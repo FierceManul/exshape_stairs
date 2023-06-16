@@ -1,0 +1,6 @@
+{
+	"parent": "exshapestairs:block/thin_stair_basic",
+	"textures": {
+		"all": "minecraft:block/red_nether_bricks"
+	}
+}

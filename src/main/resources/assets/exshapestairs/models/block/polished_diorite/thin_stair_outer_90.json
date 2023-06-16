@@ -1,0 +1,12 @@
+{
+	"parent": "exshapestairs:block/thin_stair_outer_90",
+	"textures": {
+		"particle": "minecraft:block/polished_diorite",
+		"up": "exshapestairs:block/polished_diorite_stair_180",
+		"down": "exshapestairs:block/polished_diorite_stair_270",
+		"north": "exshapestairs:block/polished_diorite_xy",
+		"east": "exshapestairs:block/polished_diorite_xy",
+		"south": "exshapestairs:block/polished_diorite_a",
+		"west": "exshapestairs:block/polished_diorite_a"
+	}
+}

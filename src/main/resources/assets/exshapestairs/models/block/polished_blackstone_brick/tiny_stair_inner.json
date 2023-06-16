@@ -1,0 +1,6 @@
+{
+	"parent": "exshapestairs:block/tiny_stair_inner_basic",
+	"textures": {
+		"all": "minecraft:block/polished_blackstone_bricks"
+	}
+}

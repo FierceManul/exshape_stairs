@@ -1,0 +1,6 @@
+{
+	"parent": "exshapestairs:block/thin_stair_mirror_basic",
+	"textures": {
+		"all": "minecraft:block/sandstone_top"
+	}
+}

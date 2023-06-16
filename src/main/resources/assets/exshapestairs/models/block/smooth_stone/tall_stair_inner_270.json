@@ -1,0 +1,12 @@
+{
+	"parent": "exshapestairs:block/tall_stair_inner_270",
+	"textures": {
+		"particle": "minecraft:block/smooth_stone",
+		"up": "exshapestairs:block/smooth_stone_stair_270",
+		"down": "exshapestairs:block/smooth_stone_stair_180",
+		"north": "minecraft:block/smooth_stone",
+		"east": "exshapestairs:block/smooth_stone_y",
+		"south": "exshapestairs:block/smooth_stone_y",
+		"west": "minecraft:block/smooth_stone"
+	}
+}
