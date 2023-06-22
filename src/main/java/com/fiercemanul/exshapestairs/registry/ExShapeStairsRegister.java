@@ -15,7 +15,6 @@ import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegisterEvent;
 
 import java.util.LinkedHashMap;
-import java.util.Map;
 
 
 @Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD)
@@ -76,21 +75,16 @@ public class ExShapeStairsRegister {
 
         BLOCK_MAP.put("smooth_stone", Blocks.SMOOTH_STONE);
 
-        event.register(ForgeRegistries.Keys.BLOCKS, helper -> {
-            BLOCK_MAP.forEach((name, block) -> {
-                String tallStairID = name + "_tall_stair";
-                String thinStairID = name + "_thin_stair";
-                String tinyStairID = name + "_tiny_stair";
-                helper.register(tallStairID, addTallStair(tallStairID, block));
-                helper.register(thinStairID, addThinStair(thinStairID, block));
-                helper.register(tinyStairID, addTinyStair(tinyStairID, block));
-            });
-        });
-        event.register(ForgeRegistries.Keys.ITEMS, helper -> {
-            BLOCK_ITEM_MAP.forEach((name, block) -> {
-                helper.register(name, new BlockItem(block, new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
-            });
-        });
+        event.register(ForgeRegistries.Keys.BLOCKS, helper -> BLOCK_MAP.forEach((name, block) -> {
+            String tallStairID = name + "_tall_stair";
+            String thinStairID = name + "_thin_stair";
+            String tinyStairID = name + "_tiny_stair";
+            helper.register(tallStairID, addTallStair(tallStairID, block));
+            helper.register(thinStairID, addThinStair(thinStairID, block));
+            helper.register(tinyStairID, addTinyStair(tinyStairID, block));
+        }));
+        event.register(ForgeRegistries.Keys.ITEMS, helper -> BLOCK_ITEM_MAP.forEach((name, block) ->
+                helper.register(name, new BlockItem(block, new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)))));
     }
 
     private static Block addTallStair(String id, Block block) {
